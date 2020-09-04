@@ -30,7 +30,7 @@
     "jsqr": "^1.2.0",
     "lodash": "^4.17.11",
     "lowdb": "^1.0.0",
-    "marked": "^0.6.1",
+    "marked": "^1.1.1",
     "mavon-editor": "^2.7.1",
     "node-sass": "^4.11.0",
     "normalize.css": "^8.0.1",
